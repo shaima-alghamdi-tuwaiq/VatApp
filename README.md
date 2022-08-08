@@ -7,4 +7,4 @@ Calculate VAT using ViewBinding and Views such as RadioButton and Switch.
 
 ### Screen Design 
 
-![Uploading image.png…]()
+
