@@ -58,7 +58,7 @@ class MainActivity : AppCompatActivity() {
         }
 
         // Total Formatting
-        val formattedTotal = NumberFormat.getCurrencyInstance().format(total)
+        val formattedTotal = NumberFormat.getCurrencyInstance().format(total) // ربطت المبلغ بالعملة
         binding.txtCostTotal.text = getString(R.string.total_amount, formattedTotal)
 
     }

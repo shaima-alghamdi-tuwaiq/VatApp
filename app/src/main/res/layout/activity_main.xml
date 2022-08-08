@@ -4,7 +4,6 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/light_green"
     android:orientation="vertical"
     android:padding="16dp"
     tools:context=".MainActivity">
@@ -59,7 +58,6 @@
         android:id="@+id/btn_calculate_vat"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:backgroundTint="@color/dark_green"
         android:text="@string/calculate_vat" />
 
     <TextView
